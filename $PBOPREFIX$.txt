@@ -1,6 +1,0 @@
-///////<HEADER>///////
-prefix=tu_arty
-Mikero=DePbo.dll
-Pbo Type is: Arma Addon
-Sha: 'C198E01E8C1E94FBD5032938C32E1A17CC30305F'
-//////</HEADER>//////
